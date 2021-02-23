@@ -6,7 +6,7 @@ Desenvolvendo conhecimento e praticando __ReactJs, NodeJs, MySql MongoDB e Pytho
 :runner: Procurando aprender algo novo todo dia.
 Buscando novas oportunidades e desafios como __Desenvolvedor de Software__
 
-:basketball:
+:basketball:Também gosto de praticar esportes, Vídeo Games :video_game: e uma boa leitura :books:
 
 ![React](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/frameworks/react.png?raw=true)
 
