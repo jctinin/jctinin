@@ -2,10 +2,13 @@ Olá!
 #### Eu sou Júlio César! 👋
 
 👨🏽‍💻 Sou um estudante de tecnologia focado em *Desenvolvimento de Software*.
-Buscando conhecimento e praticando __ReactJs, NodeJs, MySql MongoDB e Python.__
-:runner: Procurando aprender algo novo todo dia
+Desenvolvendo conhecimento e praticando __ReactJs, NodeJs, MySql MongoDB e Python.__
+:runner: Procurando aprender algo novo todo dia.
+Buscando novas oportunidades e desafios como __Desenvolvedor de Software__
 
-![Homer](https://media3.giphy.com/media/26BGIqWh2R1fi6JDa/200.gif)
+:basketball:
+
+
 
 
 <!--
