@@ -1,6 +1,8 @@
 Olá!
 #### Eu sou Júlio César! 👋
 
+Sou um estudante de tecnologia focado em *Desenvolvimento de Software*
+
 <!--
 **jctinin/jctinin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
