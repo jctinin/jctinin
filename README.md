@@ -4,6 +4,7 @@ Olá!
 👨🏽‍💻 Sou um estudante de tecnologia focado em *Desenvolvimento de Software*.
 Desenvolvendo conhecimento e praticando __ReactJs, NodeJs, MySql MongoDB e Python.__
 :runner: Procurando aprender algo novo todo dia.
+
 Buscando novas oportunidades e desafios como __Desenvolvedor de Software__
 
 :basketball:Também gosto de praticar esportes, Vídeo Games :video_game: e uma boa leitura :books:
