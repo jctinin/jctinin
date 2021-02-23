@@ -8,7 +8,7 @@ Buscando novas oportunidades e desafios como __Desenvolvedor de Software__
 
 :basketball:
 
-![Javascript](https://media3.giphy.com/media/26BGIqWh2R1fi6JDa/200.gif)
+![Javascript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
 
 
 
