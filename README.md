@@ -5,7 +5,7 @@ Olá!
 Buscando conhecimento e praticando __ReactJs, NodeJs, MySql MongoDB e Python.__
 :runner: Procurando aprender algo novo todo dia
 
-![Matrix](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F799951952558787421%2F&psig=AOvVaw3TfXHIErNoX87BQqD2p15F&ust=1614132320298000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPDf6M_1_u4CFQAAAAAdAAAAABAd)
+![Homer](https://media3.giphy.com/media/26BGIqWh2R1fi6JDa/200.gif)
 
 
 <!--
