@@ -9,7 +9,9 @@ Buscando novas oportunidades e desafios como __Desenvolvedor de Software__
 
 :basketball:Também gosto de praticar esportes, Vídeo Games :video_game: e uma boa leitura :books:
 
-#### E codar, é claro!
+##### E codar, é claro!
+
+__Me mande uma mensagem :)__ jctinin@outlook.com
 
 
 ![JavaScript](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg)
@@ -19,7 +21,6 @@ Buscando novas oportunidades e desafios como __Desenvolvedor de Software__
 ![CSS](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg)
 ![Bootstrap](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/bootstrap.svg)
 ![Python](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/python.svg)
-__Me mande uma mensagem :)__ jctinin@outlook.com
 ![coding](https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif)
 
 
