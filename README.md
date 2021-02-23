@@ -8,6 +8,10 @@ Buscando novas oportunidades e desafios como __Desenvolvedor de Software__
 
 :basketball:Também gosto de praticar esportes, Vídeo Games :video_game: e uma boa leitura :books:
 
+ <a href="#">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/js%402x.png" alt="example badge" style="vertical-align:top margin:6px 4px">
+  </a>  
+
 ![JavaScript](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/js%402x.png)
 ![React](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/frameworks/react.png?raw=true)
 
