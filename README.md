@@ -11,7 +11,7 @@ Buscando novas oportunidades e desafios como __Desenvolvedor de Software__
 
 ##### E codar, é claro!
 
-__Me mande uma mensagem :)__ : jctinin@outlook.com
+__Me mande uma mensagem :mailbox:__ : jctinin@outlook.com
 
 
 ![JavaScript](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg)
