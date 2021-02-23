@@ -8,9 +8,7 @@ Buscando novas oportunidades e desafios como __Desenvolvedor de Software__
 
 :basketball:
 
-![Javascript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
-
-
+![React](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/frameworks/react.png?raw=true)
 
 <!--
 **jctinin/jctinin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
