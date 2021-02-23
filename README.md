@@ -11,7 +11,7 @@ Buscando novas oportunidades e desafios como __Desenvolvedor de Software__
 
 #### E codar é claro
 
-![coding](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F4171367-Coding-Freak&psig=AOvVaw0UIkXWpS1-y_3VXKYkns2s&ust=1614136358938000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKDD9NeE_-4CFQAAAAAdAAAAABBn)
+![coding](https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif)
 
 ![JavaScript](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg)
 ![React](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/frameworks/react.png?raw=true)
