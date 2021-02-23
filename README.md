@@ -10,6 +10,9 @@ Buscando novas oportunidades e desafios como __Desenvolvedor de Software__
 
 ![JavaScript](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg)
 ![React](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/frameworks/react.png?raw=true)
+![HTML](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg)
+![CSS](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg)
+![Bootstrap](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/bootstrap.svg)
 
 <!--
 **jctinin/jctinin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
