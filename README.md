@@ -9,7 +9,7 @@ Buscando novas oportunidades e desafios como __Desenvolvedor de Software__
 
 :basketball:Também gosto de praticar esportes, Vídeo Games :video_game: e uma boa leitura :books:
 
-#### E codar é claro
+#### E codar, é claro!
 
 ![coding](https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif)
 
