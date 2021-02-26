@@ -11,6 +11,9 @@ Buscando novas oportunidades e desafios como __Desenvolvedor de Software__
 
 ##### E codar, é claro!
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jctinin)](https://github.com/anuraghazra/github-readme-stats)
+
+
 __Me mande uma mensagem :mailbox:__ : jctinin@outlook.com
 
 
