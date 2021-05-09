@@ -1,11 +1,10 @@
 Olá!
 #### Eu sou Júlio César! 👋
 
-👨🏽‍💻 Sou um Desenvolvedor de Software Back-end.
+👨🏽‍💻 Sou um Desenvolvedor de Software Back-end!
+
 Desenvolvendo conhecimento e praticando __ReactJs, TypeScritpt, NodeJs, MySql MongoDB e Python.__
 :runner: Procurando aprender algo novo todo dia.
-
-Buscando novas oportunidades e desafios como __Desenvolvedor de Software__
 
 :basketball:Também gosto de praticar esportes, Vídeo Games :video_game: e uma boa leitura :books:
 
