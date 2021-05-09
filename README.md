@@ -1,8 +1,8 @@
 Olá!
 #### Eu sou Júlio César! 👋
 
-👨🏽‍💻 Sou um estudante de tecnologia focado em *Desenvolvimento de Software*.
-Desenvolvendo conhecimento e praticando __ReactJs, NodeJs, MySql MongoDB e Python.__
+👨🏽‍💻 Sou um Desenvolvedor de Software Back-end.
+Desenvolvendo conhecimento e praticando __ReactJs, TypeScritpt, NodeJs, MySql MongoDB e Python.__
 :runner: Procurando aprender algo novo todo dia.
 
 Buscando novas oportunidades e desafios como __Desenvolvedor de Software__
