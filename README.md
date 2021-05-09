@@ -3,7 +3,7 @@ Olá!
 
 👨🏽‍💻 Sou um Desenvolvedor de Software Back-end!
 
-Desenvolvendo conhecimento e praticando __ReactJs, TypeScritpt, NodeJs, MySql MongoDB e Python.__
+Desenvolvendo conhecimento e praticando __ReactJs, TypeScritpt, NodeJs, MySql, MongoDB e Python.__
 :runner: Procurando aprender algo novo todo dia.
 
 :basketball:Também gosto de praticar esportes, Vídeo Games :video_game: e uma boa leitura :books:
